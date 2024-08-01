@@ -1,4 +1,3 @@
 [build]
-  base = "movieflix-gpt"
   command = "npm run build"
   publish = "build"
